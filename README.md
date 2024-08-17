@@ -20,17 +20,17 @@
 
     **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/bhumikacg/Excel-Projects/blob/main/P%26L%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/bhumikacg/Excel-Projects/blob/main/P%26L%20by%20Fiscal%20Months.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/bhumikacg/Excel-Projects/blob/main/P%20%26%20L%20for%20Markets.pdf)_
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+- **Purpose of sales analytics:** financial performance evaluation, support decision-making, and facilitate stakeholder communication.
 
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's economic outlook.
 ## Project Priority Matrix : 
-- Feasibility Impact Matrix - A prioritization matrix insdicating value to the user and effort by the organization.
+- Create a  _[Feasibility Impact Matrix]()_ _[]_()_ A prioritization matrix indicating value to the user and effort by the organization.
   
-## Scenario Planning Tool :
+## Scenario Planning Tool : (https://github.com/bhumikacg/Excel-Projects/blob/main/Customer%20Discount%20Approval.pdf)
 
 
 
@@ -46,4 +46,4 @@
 - [x]	Refined understanding of Sales & Finance Reports
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+- [x]	Developing a systematic approach to devising a report-building plan.
