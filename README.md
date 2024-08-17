@@ -21,16 +21,22 @@
     **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/bhumikacg/Excel-Projects/blob/main/P%26L%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/bhumikacg/Excel-Projects/blob/main/P%26L%20by%20Fiscal%20Months.pdf)_ 
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/bhumikacg/Excel-Projects/blob/main/P%20%26%20L%20for%20Markets.pdf)_
-
+  
+  **3.** Create Gross Margin Percentage reports by _[GM% by Quarters](https://github.com/bhumikacg/Excel-Projects/blob/main/GM%25%20by%20Quarters.pdf)_.
+  
 - **Purpose of sales analytics:** financial performance evaluation, support decision-making, and facilitate stakeholder communication.
 
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's economic outlook.
-## Project Priority Matrix : 
-- Create a  _[Feasibility Impact Matrix]()_ _[]_()_ A prioritization matrix indicating value to the user and effort by the organization.
   
-## Scenario Planning Tool : (https://github.com/bhumikacg/Excel-Projects/blob/main/Customer%20Discount%20Approval.pdf)
+## Project Priority Matrix : 
+- Create a  _[Feasibility Impact Matrix](https://github.com/bhumikacg/Excel-Projects/blob/main/Project%20Priority%20Matrix.pdf)_
+- A prioritization matrix indicating a value to the user and effort by the organization.
+  
+## Scenario Planning Tool : 
+- Create a  _[Scenario Planning Tool](https://github.com/bhumikacg/Excel-Projects/blob/main/Customer%20Discount%20Approval.pdf)_
+- This tool allows users to input key product details such as product name, discount percentage, cost of goods sold (COGS) percentage, average net invoice price (NIP), gross margin (GM) target, and sales units. Based on these inputs, the tool calculates the corresponding financial outcomes for best-case, worst-case, and realistic scenarios. These projections are determined by varying factors like discount rates and COGS, helping users make informed decisions.
 
 
 
